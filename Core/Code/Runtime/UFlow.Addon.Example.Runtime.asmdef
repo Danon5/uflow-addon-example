@@ -1,6 +1,6 @@
 {
-    "name": "DanonUnityFramework.ExampleAddon.Runtime",
-    "rootNamespace": "DanonUnityFramework.ExampleAddon.Runtime",
+    "name": "UFlow.Addon.Example.Runtime",
+    "rootNamespace": "UFlow.Addon.Example.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
