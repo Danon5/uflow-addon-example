@@ -1,6 +1,6 @@
 {
-    "name": "UFlow.Addon.Example.Editor",
-    "rootNamespace": "UFlow.Addon.Example.Editor",
+    "name": "UFlow.Addon.Example.Core.Editor",
+    "rootNamespace": "UFlow.Addon.Example.Core.Editor",
     "references": [
         "GUID:c71afbd332551934a9ad07dcba4847f1"
     ],

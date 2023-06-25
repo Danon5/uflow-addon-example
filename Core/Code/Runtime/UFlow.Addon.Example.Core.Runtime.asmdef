@@ -1,6 +1,6 @@
 {
-    "name": "UFlow.Addon.Example.Runtime",
-    "rootNamespace": "UFlow.Addon.Example.Runtime",
+    "name": "UFlow.Addon.Example.Core.Runtime",
+    "rootNamespace": "UFlow.Addon.Example.Core.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
