@@ -7,5 +7,6 @@ namespace UFlowAddons.Example.Core.Code.Runtime
     public class ExampleAddonSettings : BaseAddonSettings
     {
         public string exampleSetting;
+        public override string AddonName => "Example";
     }
 }
